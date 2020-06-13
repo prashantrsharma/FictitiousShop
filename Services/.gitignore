@@ -9,6 +9,9 @@ nupkg/
 .vscode
 **/.vscode/
 
+# DS Store Files
+**/.DS_Store/
+
 # Rider
 .idea
 
