@@ -8,7 +8,7 @@
     <PackageReference Include="Ensure.That" Version="8.1.1" />
     <PackageReference Include="Hangfire.AspnetCore" Version="1.7.3" />
     <PackageReference Include="Hangfire.LiteDB" Version="0.1.1" />
-    <PackageReference Include="LiteDB" Version="4.1.4" />
+    <PackageReference Include="LiteDB" Version="5.0.13" />
     <PackageReference Include="MediatR" Version="7.0.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
